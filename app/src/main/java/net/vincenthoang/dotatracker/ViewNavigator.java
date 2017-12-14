@@ -1,4 +1,4 @@
-package net.vincenthoang.dotatracker.view;
+package net.vincenthoang.dotatracker;
 
 import android.content.Context;
 import android.content.Intent;

@@ -7,8 +7,8 @@ import android.support.annotation.Nullable;
 
 import net.vincenthoang.dotatracker.presenter.components.ApplicationComponent;
 import net.vincenthoang.dotatracker.presenter.modules.ActivityModule;
-import net.vincenthoang.dotatracker.view.AndroidApplication;
-import net.vincenthoang.dotatracker.view.ViewNavigator;
+import net.vincenthoang.dotatracker.AndroidApplication;
+import net.vincenthoang.dotatracker.ViewNavigator;
 
 import javax.inject.Inject;
 

@@ -7,7 +7,7 @@ import dagger.Module;
  */
 
 @Module
-public class UserModule {
+public class ProfileModule {
 
-    public UserModule() {}
+    public ProfileModule() {}
 }

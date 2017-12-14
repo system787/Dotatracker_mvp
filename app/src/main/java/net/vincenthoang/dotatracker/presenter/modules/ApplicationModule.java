@@ -2,7 +2,7 @@ package net.vincenthoang.dotatracker.presenter.modules;
 
 import android.content.Context;
 
-import net.vincenthoang.dotatracker.view.AndroidApplication;
+import net.vincenthoang.dotatracker.AndroidApplication;
 
 import javax.inject.Singleton;
 
