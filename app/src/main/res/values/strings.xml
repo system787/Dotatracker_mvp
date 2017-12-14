@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dota Tracker</string>
+
+    <string name="steam_text">STEAM</string>
+    <string name="opendota_text">&lt;OPENDOTA/&gt;</string>
+
+    <string name="card_heroes">Hero Stats</string>
+    <string name="card_ranked">Ranked Stats</string>
+    <string name="card_recent">Recent Matches</string>
+    <string name="card_players">Frequent Players</string>
+
+
+</resources>
