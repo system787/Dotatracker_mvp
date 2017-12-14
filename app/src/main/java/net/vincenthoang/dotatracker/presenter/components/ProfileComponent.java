@@ -13,6 +13,6 @@ import dagger.Component;
 
 @PerActivity
 @Component(dependencies = ApplicationComponent.class, modules = { ActivityModule.class, ProfileModule.class })
-public interface ProfileComponent extends ApplicationComponent {
+public interface ProfileComponent extends ActivityComponent {
     void inject(RankedStatsFragment rankedStatsFragment);
 }
